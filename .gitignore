@@ -1,0 +1,22 @@
+
+node_modules/
+
+npm-debug.log
+
+# Ignore something in test folder
+
+test/unit/coverage
+test/e2e/reports
+
+selenium-debug.log
+
+# Include when developing application packages.
+
+.DS_Store
+.tmp
+pubspec.lock
+.c9
+.idea/
+.settings/
+*.swo
+.vscode
